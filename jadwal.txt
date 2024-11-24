@@ -1,7 +1,7 @@
 Jadwal Seminggu
-- Senin masuk pagi jam 10 (Matkul Perencanaan Sistem Informasi)
-- Selasa masuk pagi jam 8 (Matkul Sistem Basis Data)
-- Rabu masuk pagi jam 8 (Matkul Matematika)
-- Kamis masuk pagi jam 8 & siang jam 4 (Matkul Organisasi Sistem Komputer & Rekayasa Ulang Proses Bisnis)
-- Jum'at masuk pagi jam 8 (Matkul Pemograman Internet)
-- Sabtu masuk siang jam 4 (Matkul Teori dan Perilaku Organisasi)
+- Senin masuk pagi jam 10 (Matkul Perencanaan Sistem Informasi) Semester I
+- Selasa masuk pagi jam 8 (Matkul Sistem Basis Data) Semester III
+- Rabu masuk pagi jam 8 (Matkul Matematika) Semester I
+- Kamis masuk pagi jam 8 & siang jam 4 (Matkul Organisasi Sistem Komputer & Rekayasa Ulang Proses Bisnis) Semester III & V
+- Jum'at masuk pagi jam 8 (Matkul Pemograman Internet) Semester III
+- Sabtu masuk siang jam 4 (Matkul Teori dan Perilaku Organisasi) Semester III
